@@ -9,4 +9,5 @@ It uses Johnny-Five Javascript robotics framework and Node.js for the server and
 ### Frequently asked questions
 
 __Q: Why?__
+
 A: Because
